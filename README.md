@@ -1,7 +1,5 @@
 ## Hi there  im Shawn Midouin 👋
 
-**ShawnMidouin/ShawnMidouin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I'm currently working on an **AI Contract Reviewer** — an app that helps musicians and freelancers without lawyers spot risky clauses in contracts before they sign.
 - 🌱 I'm currently deepening my **Python and HTML/CSS** skills, working toward JavaScript, React, and AI-powered app development.
 - 👯 I'm looking to collaborate on AI-powered tools that help everyday people access things they normally can't afford — legal help, mental health support, etc.
